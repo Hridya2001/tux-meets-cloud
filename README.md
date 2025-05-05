@@ -1,4 +1,5 @@
-# tux-meets-cloud
+# tux-meets-cloud 🐧☁️
+
 
 This repo is a little snapshot of how I spent my day by learning with **AWS EC2**, **cloud storage**, and **Linux terminal commands** as part of my cloud computing journey.
 
