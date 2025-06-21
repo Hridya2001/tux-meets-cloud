@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Connect to EC2 instance
-ssh -i "my-key.pem" ec2-user@
+ssh -i "my-key.pem" ec2-user@15.207.98.25
 
 # Check disk usage
-df -h
+# df -h
 
 # List block devices
 lsblk
